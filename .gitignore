@@ -1,0 +1,40 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+env/
+venv/
+.venv/
+*/env/
+*/venv/
+
+# Editor configs
+.vscode/
+*.code-workspace
+.idea/
+
+# Environment variables
+.env
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Logs and Reports
+*.log
+coverage.xml
+htmlcov/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Static exports
+node_modules/
+```
